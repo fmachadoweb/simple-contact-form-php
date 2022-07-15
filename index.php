@@ -1,6 +1,6 @@
 <?php
 
-// Credits Don't Remove  				
+// Credits do not remove  				
 // This Contact form created by 
 // Fernando Machado > https://github.com/fmachadoweb	
 
@@ -31,7 +31,7 @@ if (isset($_POST['BTSend'])) {
  $email_subject = "Contact for mail"; // This will be the subject of the message
  //====================================================
  
- //Monta o Corpo da Mensagem
+ //Assemble the Message Body
  //====================================================
  $email_content = "Name = $name \n"; 
  $email_content .= "Email = $email \n";
