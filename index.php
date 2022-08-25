@@ -4,6 +4,7 @@
 // This Contact form created by 
 // Fernando Machado > https://github.com/fmachadoweb	
 
+
 // Demo in: https://alfawebhost.com.br/mail/
 
 
@@ -53,6 +54,8 @@ if (isset($_POST['BTSend'])) {
  //====================================================
 } 
 ?>
+ 
+ <h2>CONTACT FORM</h2>
  
  <form action="<? $PHP_SELF; ?>" method="POST"> 
  <p> 
