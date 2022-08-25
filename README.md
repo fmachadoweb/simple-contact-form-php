@@ -16,7 +16,7 @@
     <a href="https://github.com/fmachadoweb/simple-contact-form-php/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    ·
+    <a href="http://hardtek.com.br/form/">Demo</a>    ·
     <a href="mailto:fernandomachadoweb@gmail.com">Bug report</a>
 
   </p>
